@@ -1,0 +1,3 @@
+include ':Android-Multi-Select-Dialog-Kumar'
+include ':app'
+rootProject.name = "FRagment Dilog"
